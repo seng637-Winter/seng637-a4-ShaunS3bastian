@@ -2,22 +2,15 @@
 
 **Lab. Report \#4 – Mutation Testing and Web app testing**
 
-| Group \#:      |     |
-| -------------- | --- |
-| Student Names: |     |
-|                |     |
-|                |     |
-|                |     |
-
 # Introduction
 
 # Analysis of 10 Mutants of the Range class 
 
 # Report all the statistics and the mutation score for each test class
 
-DataUtilities
+## DataUtilities.java
 
-## Before
+### Before
   
 ![PitSUmmaryBeforeDataUtilities](https://github.com/seng637-Winter/seng637-a4-ShaunS3bastian/assets/132412518/09085e1d-5b6f-4f29-9728-9b14e0b642bb)
 
@@ -25,7 +18,7 @@ DataUtilities
 
 ![ConsoleBeforeDataUtilities](https://github.com/seng637-Winter/seng637-a4-ShaunS3bastian/assets/132412518/8ef75e2a-f5e8-4e25-8c13-d28ca5c36af3)
 
-## After
+### After
 
 ![PitSUmmaryAfterDataUtilities](https://github.com/seng637-Winter/seng637-a4-ShaunS3bastian/assets/132412518/376327d1-7ec7-47b1-881c-54ba4456366a)
 
